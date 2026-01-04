@@ -48,7 +48,6 @@ get_hf_daily_paper/
 ```
 bash get_daily_paper.sh YYYYMMDD-YYYYMMDD # such as bash get_daily_paper.sh 20251201-20260101
 ```
-If no date is provided, it will download papers for the current date.
 
 
 
