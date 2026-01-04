@@ -14,7 +14,7 @@ This project automates the process of downloading, summarizing, and converting d
 ## Project Structure
 
 ```
-hf_daily_papers/
+get_hf_daily_paper/
 │
 ├── data/
 │   ├── input/  # Downloaded JSON files
@@ -23,6 +23,7 @@ hf_daily_papers/
 ├── src/
 │   ├── download_daily_papers.py
 │   ├── daily_papers_abstract_extractor.py
+│   ├── merge.py
 │
 └── README.md
 ```
